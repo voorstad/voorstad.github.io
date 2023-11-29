@@ -1,0 +1,13 @@
+---
+alt: image-alt
+img: circus.png
+date: '2022-10-05'
+client: Start Bootstrap
+layout: default
+category: music
+modal-id: 3
+description: Singing is a reflection of your soul.
+project-date: October 2022
+---
+which is shown in the screenshot below:
+![My helpful screenshot](/portfolio/last_ship.png)
