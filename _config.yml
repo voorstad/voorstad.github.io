@@ -60,7 +60,7 @@ address:
   - line: the netherlands
 
 # Credits content
-credits: 'This static open source Jekyll markdown site is hosted at <a href="http://freedom.nl" target="_blank"> freedom.nl</a>.'
+credits: 'This is a static open source Jekyll markdown site'
 
 # Build settings
 markdown: kramdown
